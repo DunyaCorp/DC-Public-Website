@@ -72,6 +72,6 @@ StackRox<br>
 7. SecOps: DISA STIGS, CIS
 8. Experience deploying LAMP (Apache/Tomcat) and applications.
 
-Technical Model: Linux, Git
-Open Source Model: Holochain
-Financial Model: University of the People
+<b>Technical Model:</b> Linux, Git<br>
+<b>Open Source Model:</b> MIT<br>
+<b>Financial Model:</b> University of the People</span>
