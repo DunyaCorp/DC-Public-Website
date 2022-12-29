@@ -18,51 +18,51 @@ We will give credit to any content we use and we will not charge any soul one di
 
 We will advise leveraging AWS or GCP Free Tier Accounts. 
 
-Technology Project Focus:
+<b>Technology Project Focus</b>
 
-Cloud Service Provider:</p>
-Amazon Web Services (AWS)
+Cloud Service Provider:<br>
+Amazon Web Services (AWS)<br>
 Google Cloud Platform (GCP)
 
-Automation:</p>
-Ansible, Cloud Formation
-Terraform
-Jenkins
+<b>Automation:</p></b>
+Ansible, Cloud Formation<br>
+Terraform<br>
+Jenkins<br>
 
-Operating Systems:
-Red Hat Enterprise Linux
-Rocky Linux (.RPM)
+Operating Systems:</p><br>
+Red Hat Enterprise Linux<br>
+Rocky Linux (.RPM)<br>
 Ubuntu (.DEB)
 
-Containers:
-K8
+<b>Containers:</b><br>
+Kubernetes<br>
 Docker
 
-Languages:
+</b>Languages:</b><br>
 Python (PyLint, Pytest)
 
-Monitoring:
-Prometheus
+<b>Monitoring:</b><br>
+Prometheus<br>
 Grafana (Open Source)
 
-Source Code Repository:
-GitHub
-GitLab
+<b>Source Code Repository:</b><br>
+GitHub<br>
+GitLab<br>
 
-CI/CD (Continuous Integration / Continuous Delivery):
-CircleCI
-Jenkins (Open Source)
-Gradle
+<b>CI/CD (Continuous Integration / Continuous Delivery):</b><br>
+CircleCI<br>
+Jenkins (Open Source)<br>
+Gradle<br>
 
-Code Editor:
+<b>Code Editor:</b></br>
 VSC
 
-Security:
-OpenSCAP
-TruffleHogg
-StackRox
+<b>Security:</b></br>
+OpenSCAP<br>
+TruffleHogg<br>
+StackRox<br>
 
-Job & Project Focus:
+  <b>Job & Project Focus:</b>
 1. Experience documenting architecture designs and documentation
 2. Experience with Developing and Maintaining CI/CD Environments
 3. Building strong systems engineering and networking fundamentals discipline (networking, storage, operating systems, disaster recovery and failover)
