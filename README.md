@@ -20,11 +20,11 @@ We will advise leveraging AWS or GCP Free Tier Accounts.
 
 Technology Project Focus:
 
-Cloud Service Provider:
+Cloud Service Provider:</p>
 Amazon Web Services (AWS)
 Google Cloud Platform (GCP)
 
-Automation:
+Automation:</p>
 Ansible, Cloud Formation
 Terraform
 Jenkins
