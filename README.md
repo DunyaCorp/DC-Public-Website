@@ -75,6 +75,6 @@ Operating Systems:</p><br>
 - 7. SecOps: DISA STIGS, CIS
 - 8. Experience deploying LAMP (Apache/Tomcat) and applications.
 
-- <b>Technical Model:</b> Linux, Git<br>
-- <b>Open Source Model:</b> MIT<br>
-- <b>Financial Model:</b> University of the People</span>
+<b>Technical Model:</b> Linux, Git<br>
+<b>Open Source Model:</b> MIT<br>
+<b>Financial Model:</b> University of the People</span>
