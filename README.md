@@ -28,7 +28,7 @@ Cloud Service Provider:<br>
 - Terraform<br>
 - Jenkins<br>
 
-Operating Systems:</p><br>
+Operating Systems:<br>
 - Red Hat Enterprise Linux<br>
 - Rocky Linux (.RPM)<br>
 - Ubuntu (.DEB)
